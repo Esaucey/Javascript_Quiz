@@ -1,0 +1,55 @@
+body {
+    margin: auto;
+    padding: auto;
+    background-color: rgb(93, 126, 119);
+}
+
+.container {
+    margin-top: 150px;
+    padding: 50px;
+    background-color: rgb(153, 192, 180);
+    text-align: center;
+  }
+
+.time {
+    padding-right: 25px;
+    background-color: rgb(114, 114, 153);
+    font-size: 2em;
+    color: rgb(184, 131, 190);
+    text-align: right;
+}
+
+.stats {
+    margin-left: 20px;
+    text-align: left;
+    color: rgb(90, 109, 73);
+    font-size: 2em;
+    font-weight: 200;
+}
+
+#main {
+    background-color: rgb(76, 140, 156);
+    font-size: 2em;
+    display: block;
+}
+
+button {
+    background-color: darkcyan;
+    border: darkmagenta;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: darkred;
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+}
+
+ul li{
+    margin: 10px;
+}
